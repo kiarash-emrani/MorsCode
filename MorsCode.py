@@ -7,7 +7,7 @@ dic = {
     "E":"o"
 }
 while True:
-    mors = input(" harf khod ra vared koni : ")
+    mors = input(" Enter your word : ")
     mors = mors.upper()
     print(dic[mors])
     
